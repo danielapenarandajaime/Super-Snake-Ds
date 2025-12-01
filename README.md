@@ -56,3 +56,4 @@ Super Snake DS es una reinterpretación moderna del clásico arcade Snake, desar
 
  ### Ejemplo gráfico de la jugabilidad:
 ![Super Snake DS](img/Juego_gift.gif)
+
