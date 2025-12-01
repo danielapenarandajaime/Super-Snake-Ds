@@ -55,4 +55,4 @@ Super Snake DS es una reinterpretación moderna del clásico arcade Snake, desar
     - **Manejo de Datos**: Almacena los diferentes tipos de comida (ej: Normal, Puntos extra, Veneno) y sus valores asociados, permitiendo que el código trabaje con nombres legibles en lugar de números crudos.
 
  ### Ejemplo gráfico de la jugabilidad:
-![Super Snake DS(img/Juego gift.gif)
+![Super Snake DS](img/Juego gift.gif)
